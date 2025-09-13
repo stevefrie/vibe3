@@ -1,0 +1,5 @@
+{
+  "name": "React Missile Command",
+  "description": "A classic arcade-style game, a clone of Missile Command, where you defend your bases from a relentless barrage of incoming missiles. Built with React, TypeScript, and Tailwind CSS, featuring procedurally generated audio for an authentic retro experience.",
+  "requestFramePermissions": []
+}
